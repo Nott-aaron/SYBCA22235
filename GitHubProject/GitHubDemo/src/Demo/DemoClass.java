@@ -9,4 +9,8 @@ public class DemoClass {
 		
 	}
 
+	void display()
+	{
+		System.out.println("zafrul do not use my github");
+	}
 }
