@@ -9,4 +9,9 @@ public class DemoClass {
 		
 	}
 
+	void display()
+	{
+		System.out.println("Branch pull request");
+	}
+	
 }
